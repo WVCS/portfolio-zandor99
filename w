@@ -13,5 +13,5 @@
            
     <input type="submit" value="This one should work" />
            </form> </p5>
-           <footer style="font-size:20%;"><footer style="color:black;"><footer style="text-align:left;"> made with mematic </footer>
+           <footer style="font-size:20%;"><footer style="color:black;"><footer style="text-align:left;"> made with mematic. </footer>
   </body>
